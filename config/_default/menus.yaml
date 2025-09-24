@@ -1,0 +1,54 @@
+leftnav:
+- identifier: 4a067068-55f6-3c8a-22d7-2cdee80f13e9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 952dbf44-0d8f-8866-2f19-a0b7e57d29b1
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 38563f64-7421-f8b4-1ce5-d0d42e4ab46b
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 4edfd6c7-e2a5-013a-ecf2-6ee161befcc7
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: b6b4a6a8-1731-a469-ac01-bbee69555ece
+  name: Handouts
+  pageRef: /pages/handouts/
+  weight: 50
+- identifier: f0bdb5cb-dad3-0c86-cfc7-9245242cafc6
+  name: 'Key Ideas #1'
+  pageRef: /pages/handouts/key-ideas-1
+  parent: b6b4a6a8-1731-a469-ac01-bbee69555ece
+  weight: 60
+- identifier: 0711254c-2c07-2738-5c7a-23bd812b78c8
+  name: 'Key Ideas #2'
+  pageRef: /pages/handouts/key-ideas-2
+  parent: b6b4a6a8-1731-a469-ac01-bbee69555ece
+  weight: 70
+- identifier: 549aec3f-6e73-5dd9-08af-90e8cd2ac131
+  name: 'Key Ideas #3'
+  pageRef: /pages/handouts/key-ideas-3
+  parent: b6b4a6a8-1731-a469-ac01-bbee69555ece
+  weight: 80
+- identifier: 9e2739eb-fa3b-e101-66f4-6f98223631ec
+  name: 'Key Ideas #4'
+  pageRef: /pages/handouts/key-ideas-4
+  parent: b6b4a6a8-1731-a469-ac01-bbee69555ece
+  weight: 90
+- identifier: ee699e7e-53da-5ba4-5532-437ef5f8ac00
+  name: 'Key Ideas #5'
+  pageRef: /pages/handouts/key-ideas-5
+  parent: b6b4a6a8-1731-a469-ac01-bbee69555ece
+  weight: 100
+- identifier: 85b12e01-d1a8-f4db-93fd-d521f8d23320
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 110
+- identifier: cd311d8e-fe55-b8fb-0875-a02baf19315c
+  name: Projects
+  pageRef: /pages/projects
+  weight: 120
